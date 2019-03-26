@@ -1,0 +1,30 @@
+2018 cross
+Fold:  1 	Re-Acc: 0.872 	Test-Acc: 0.774
+Fold:  2 	Re-Acc: 0.877 	Test-Acc: 0.739
+Fold:  3 	Re-Acc: 0.877 	Test-Acc: 0.774
+Fold:  4 	Re-Acc: 0.878 	Test-Acc: 0.744
+Fold:  5 	Re-Acc: 0.876 	Test-Acc: 0.774
+Fold:  6 	Re-Acc: 0.877 	Test-Acc: 0.752
+Fold:  7 	Re-Acc: 0.871 	Test-Acc: 0.767
+Fold:  8 	Re-Acc: 0.879 	Test-Acc: 0.787
+Fold:  9 	Re-Acc: 0.869 	Test-Acc: 0.779
+Fold: 10 	Re-Acc: 0.874 	Test-Acc: 0.735
+Accuracy for 10 crossvalidation: 0.762
+Raw values: ['0.774', '0.739', '0.774', '0.744', '0.774', '0.752', '0.767', '0.787', '0.779', '0.735']
+2017 cross
+Fold:  1 	Re-Acc: 0.897 	Test-Acc: 0.815
+Fold:  2 	Re-Acc: 0.895 	Test-Acc: 0.824
+Fold:  3 	Re-Acc: 0.905 	Test-Acc: 0.812
+Fold:  4 	Re-Acc: 0.903 	Test-Acc: 0.839
+Fold:  5 	Re-Acc: 0.905 	Test-Acc: 0.821
+Fold:  6 	Re-Acc: 0.903 	Test-Acc: 0.822
+Fold:  7 	Re-Acc: 0.896 	Test-Acc: 0.818
+Fold:  8 	Re-Acc: 0.906 	Test-Acc: 0.802
+Fold:  9 	Re-Acc: 0.904 	Test-Acc: 0.830
+Fold: 10 	Re-Acc: 0.903 	Test-Acc: 0.809
+Accuracy for 10 crossvalidation: 0.819
+Raw values: ['0.815', '0.824', '0.812', '0.839', '0.821', '0.822', '0.818', '0.802', '0.830', '0.809']
+2017 -> 2018
+Accuracy for cross-comparison: 0.661
+2018 -> 2017
+Accuracy for cross-comparison: 0.716
